@@ -1,0 +1,3 @@
+﻿  SQRT.cpp
+C:\Users\Ev\Desktop\IVT-22\2-й курс\выш_мат\5\SQRT\SQRT\SQRT.cpp(30,15): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+  SQRT.vcxproj -> C:\Users\Ev\Desktop\IVT-22\2-й курс\выш_мат\5\SQRT\x64\Debug\SQRT.exe
